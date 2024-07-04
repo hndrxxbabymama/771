@@ -14,8 +14,8 @@ echo.
 echo.
 echo.
 echo.
-echo                            Computer tweaked sucessfuly, enjoy the FPS that your computer needed.
-echo.                                                           UwU
+echo                                                    bsa7tek pc dyalk tweaka enjoy 
+echo.                                                      qubla mn 3end hndrxx hh
 echo.
 echo.
 echo.
@@ -31,5 +31,5 @@ echo.
 echo.
 echo.
 pause
-start https://www.youtube.com/channel/UCIj-jcplOl9RqTfjXQ30JXA
+start https://discord.gg/5JaypJf6
 (goto) 2>nul & del "%~f0"
